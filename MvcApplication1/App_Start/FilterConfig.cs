@@ -8,7 +8,9 @@ namespace MvcApplication1
         public static void RegisterGlobalFilters(GlobalFilterCollection filters)
         {
             filters.Add(new HandleErrorAttribute());
-            //qqqqqqqqq;
+            //qqqqqqqqq;qwqwqwqwqwqwq\
+            //11111111111111111
+            //aaaaaaaaaaaaaaaaaaaaa
         }
     }
 }
